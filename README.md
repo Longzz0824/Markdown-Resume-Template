@@ -21,7 +21,8 @@
 * 掌握基础数据结构和算法的基本原理
 * 系统学习过各种机器学习与深度学习原理
 * 熟悉Pytorch
-* 接触过RAG，LangChain相关项目
+* 
+* 做过RAG，LangChain相关项目
 
 ## 项目经历
 
@@ -41,7 +42,14 @@
     * 任务评估和反馈
     * github地址(https://github.com/Longzz0824/Sidekick-Personal-Co-worker)
 
-3. 慕尼黑大学 - Critical Multitask Batch Sizes in Diffusion Models 扩散模型中的临界多任务批量大小 - 两人合作 - 202410- 202502
+3. 个人 - LLaMA Factory微调实践：微调Qwen2-VL构建中文医疗大模型
+    * 在阿里云PAI-DSW平台进行
+    * 基于中文医疗数据集（含问诊、诊断等专业数据）实现监督微调
+    * 支持医疗数据格式自动解析（instruction-output 结构）
+    * 通过WebUI实现训练过程可视化：实时监控 loss
+    * 微调后模型可用于医疗问答、症状分析等专业场景
+      
+4. 慕尼黑大学 - Critical Multitask Batch Sizes in Diffusion Models 扩散模型中的临界多任务批量大小 - 两人合作 - 202410- 202502
     * 基于论文["An Empirical Model of Large-Batch Training"](https://arxiv.org/abs/1812.06162)进行了以下四项探索
     * 探索平均**梯度噪声量表（Gradient Noise Scale）**与实际梯度精度的关系
     * 探索超参数**small batch size (𝑏)**, **big batch size (𝐵)**, and **repetitions (𝑟𝑒𝑝𝑠)**对**梯度噪声量表（Gradient Noise Scale）**的准确性和性能的影响
