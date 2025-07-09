@@ -10,7 +10,7 @@
 
 ## 工作及教育经历
 
-* 慕尼黑大学&emsp;&emsp;&emsp;&emsp;&emsp;2023.9~至今&emsp;&emsp;&emsp;&emsp; Informatik-研究生
+* 慕尼黑大学&emsp;&emsp;&emsp;&emsp;&emsp;2023.9~至今&emsp;&emsp;&emsp;&emsp; Informatik-硕士
 * 杜伊斯堡埃森大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~2023.4&emsp;&emsp;&emsp;&emsp; Computer Engineering-本科 (2+2 双学位)
 * 郑州大学&emsp;&emsp;&emsp;&emsp;&emsp;2018.9~2020.8&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科
 * 焦作市第一中学&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2018.6&emsp;&emsp;&emsp;&emsp; 高中
