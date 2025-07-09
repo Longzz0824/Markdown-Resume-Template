@@ -11,7 +11,7 @@
 ## 工作及教育经历
 
 * 慕尼黑大学&emsp;&emsp;&emsp;&emsp;&emsp;2023.9~至今&emsp;&emsp;&emsp;&emsp; Informatik-研究生
-* 杜伊斯堡埃森大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~2023.4&emsp;&emsp;&emsp;&emsp; Computer Engineering-本科
+* 杜伊斯堡埃森大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~2023.4&emsp;&emsp;&emsp;&emsp; Computer Engineering-本科 (2+2 双学位)
 * 郑州大学&emsp;&emsp;&emsp;&emsp;&emsp;2018.9~2020.8&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科
 * 焦作市第一中学&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2018.6&emsp;&emsp;&emsp;&emsp; 高中
 
@@ -21,7 +21,7 @@
 * 掌握基础数据结构和算法的基本原理
 * 系统学习过各种机器学习与深度学习原理
 * 熟悉Pytorch
-* 
+* 有过 LLaMA Factory 微调实践经历
 * 做过RAG，LangChain相关项目
 
 ## 项目经历
@@ -33,13 +33,10 @@
     * 本地向量存储：支持将文档向量持久化存储
     * github地址(https://github.com/Longzz0824/rag-cv)
 2. 个人 - Sidekick Personal Co-Worker - LangGraph
-    * 基于 GPT-4 的智能对话
-    * 网页浏览和搜索能力
-    * 维基百科查询
-    * 文件管理
-    * 推送通知
-    * Python 代码执行
-    * 任务评估和反馈
+    * 使用 LangGraph 构建复杂的工作流状态图，实现任务执行的自动化编排
+    * 集成多种外部 API 和工具，赋予 AI 助手网页浏览与搜索能力，维基百科查询能力，Python 代码执行，任务评估及反馈能力等等。
+    * 实现智能评估系统，通过 LLM 自动判断任务完成质量
+    * 采用异步架构和内存管理，确保系统稳定性和资源效率
     * github地址(https://github.com/Longzz0824/Sidekick-Personal-Co-worker)
 
 3. 个人 - LLaMA Factory微调实践：微调Qwen2-VL构建中文医疗大模型
@@ -70,7 +67,7 @@
 * 具备良好的团队合作与沟通能力，能够高效协作、协调推进任务。
 * 学习能力强，乐于接受新挑战，能迅速掌握新工具与新知识。
 * 有能够用英语熟练阅读专业文献，具备基本的英语写作和表达能力
-* 具备一定德语沟通能力(已退化）
+* 具备一定德语沟通能力
 
 
 
